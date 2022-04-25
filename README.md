@@ -1,10 +1,6 @@
 # Como criar links e rotas com React Router Dom v6
 
-### Introdução
-Eu tenho mais familiaridade com o backend, mas por gostar muito de javascript, o ReactJS sempre está nas minhas trilhas de aprendizado.
+### Objetivo
+Vamos construir uma aplicação com carregamento de duas telas: clientes e produtos e permitir a navegação entre essas elas sem o carregamento total da página. A tela de clientes possuirá uma listagem permitindo a visualização dos detalhes de cada cliente com uma navegação interna.
 
-Buscando mais informações sobre as rotas, algumas questões que não ficavam claras para mim era o carregamento de telas e navegação entre elas com toda aquela parafernalha que o front precisa carregar: css, js, libs, componentes, etc, sendo que nem sempre existe a necessidade de ir no backend para resolver algo.
-
-Este post pode ser básico se você já possui um conhecimento sólido do ReactJS, mas pode auxiliar alguém que esteja iniciando.
-
-Acesse o tutorial completo.
+[Acesse o tutorial completo](https://tiagosabadini.medium.com/como-criar-links-e-rotas-com-react-router-dom-v6-f379b2e78b7a).
